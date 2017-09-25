@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "730E3B4C1F451B760094A7C7"
-               BuildableName = "ReadingJASON.app"
-               BlueprintName = "ReadingJASON"
-               ReferencedContainer = "container:ReadingJASON.xcodeproj">
+               BuildableName = "Knowledge Quiz.app"
+               BlueprintName = "Knowledge Quiz"
+               ReferencedContainer = "container:Knowledge Quiz.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "730E3B4C1F451B760094A7C7"
-            BuildableName = "ReadingJASON.app"
-            BlueprintName = "ReadingJASON"
-            ReferencedContainer = "container:ReadingJASON.xcodeproj">
+            BuildableName = "Knowledge Quiz.app"
+            BlueprintName = "Knowledge Quiz"
+            ReferencedContainer = "container:Knowledge Quiz.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "730E3B4C1F451B760094A7C7"
-            BuildableName = "ReadingJASON.app"
-            BlueprintName = "ReadingJASON"
-            ReferencedContainer = "container:ReadingJASON.xcodeproj">
+            BuildableName = "Knowledge Quiz.app"
+            BlueprintName = "Knowledge Quiz"
+            ReferencedContainer = "container:Knowledge Quiz.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "730E3B4C1F451B760094A7C7"
-            BuildableName = "ReadingJASON.app"
-            BlueprintName = "ReadingJASON"
-            ReferencedContainer = "container:ReadingJASON.xcodeproj">
+            BuildableName = "Knowledge Quiz.app"
+            BlueprintName = "Knowledge Quiz"
+            ReferencedContainer = "container:Knowledge Quiz.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
